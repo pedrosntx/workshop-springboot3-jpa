@@ -41,15 +41,15 @@ Pré-requisitos: Java 17+
 
 ```bash
 # clonar repositório
-git clone git@github.com:pedrosntx/workshop-springboot3-jpa.git
+# git clone git@github.com:pedrosntx/workshop-springboot3-jpa.git
 
 # importe em sua IDE de preferência como um projeto Maven
 
 # execute a aplicação no caminho:
-\src\main\java\com\pedrosantos\course\CourseApplication.java
+# \src\main\java\com\pedrosantos\course\CourseApplication.java
 
 # acesse o H2 Console no link:
-http://localhost:8080/h2-console
+# http://localhost:8080/h2-console
 
 # use o Postman para testar os endpoints
 ```
